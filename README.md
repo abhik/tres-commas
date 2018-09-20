@@ -8,4 +8,4 @@ seperator.
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gxzgcdmk1Mo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Demo video](https://img.youtube.com/vi/gxzgcdmk1Mo/0.jpg)](https://www.youtube.com/watch?v=gxzgcdmk1Mo)
