@@ -8,4 +8,6 @@ seperator.
 
 ## Demo
 
+Click image below to see a short demo video on youtube.
+
 [![Demo video](https://img.youtube.com/vi/gxzgcdmk1Mo/0.jpg)](https://www.youtube.com/watch?v=gxzgcdmk1Mo)
